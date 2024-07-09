@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Wakanda Forever",
+        "year": 2017,
+        "director": "David Ayer",
+        "duration": "117 min",
+        "genres": ["Action", "Crime", "Fantasy"],
+        "description": "Set in a world where fantasy creatures live side by side with humans. A human cop is forced to work with an Orc to find a weapon everyone is prepared to kill for.",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROiBIhi1TaPHV57UmmW24Eq99WClm37wBIMQ&s",
+        "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROiBIhi1TaPHV57UmmW24Eq99WClm37wBIMQ&s"
+    },
+    {
+        "title": "Fast & Furious",
+        "year": 2018,
+        "director": "Roar Uthaug",
+        "duration": "125 min",
+        "genres": ["Action", "Fantasy"],
+        "description": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
+        "poster": "https://rukminim2.flixcart.com/image/850/1000/l2z26q80/poster/4/r/k/small-yaa-fast-furious-cool-art-effect-movie-poster-original-image72hwzkpexdg.jpeg?q=20&crop=false",
+        "background": "https://rukminim2.flixcart.com/image/850/1000/l2z26q80/poster/4/r/k/small-yaa-fast-furious-cool-art-effect-movie-poster-original-image72hwzkpexdg.jpeg?q=20&crop=false"
+    },
+    {
+        "title": "The Matrix",
+        "year": 1999,
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "duration": "136 min",
+        "genres": ["Action", "Sci-Fi"],
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "poster": "https://miro.medium.com/v2/resize:fit:1400/0*eb0v8gYdBVvwwOiG.jpg",
+        "background": "https://miro.medium.com/v2/resize:fit:1400/0*eb0v8gYdBVvwwOiG.jpg"
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "duration": "148 min",
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS783W0mqH4sjU1V7USmGybe8tg6KdAx0ExUQ&s",
+        "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS783W0mqH4sjU1V7USmGybe8tg6KdAx0ExUQ&s"
+    }
+]
